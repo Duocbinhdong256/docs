@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Dược BÌnh Đông",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -111,5 +111,6 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  }
+  },
+  "description": "Dược Bình Đông được thành lập với sự kế thừa tinh hoa nền Y học cổ truyền Việt Nam. Tiền thân là Cơ sở sản xuất thuốc Y học dân tộc Bình Đông."
 }
