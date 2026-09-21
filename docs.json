@@ -107,10 +107,13 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://www.binhdong.vn/",
+      "facebook": "https://facebook.com/binhdongpharma",
+      "instagram": "https://instagram.com/binhdong.vn"
     }
   },
-  "description": "Dược Bình Đông được thành lập với sự kế thừa tinh hoa nền Y học cổ truyền Việt Nam. Tiền thân là Cơ sở sản xuất thuốc Y học dân tộc Bình Đông."
+  "description": "Dược Bình Đông được thành lập với sự kế thừa tinh hoa nền Y học cổ truyền Việt Nam. Tiền thân là Cơ sở sản xuất thuốc Y học dân tộc Bình Đông.",
+  "seo": {
+    "indexing": "all"
+  }
 }
