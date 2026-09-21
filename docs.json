@@ -35,7 +35,7 @@
         "tab": "Cẩm nang sức khỏe",
         "groups": [
           {
-            "group": "Cẩm nang sức khỏe",
+            "group": "General",
             "pages": [
               "index",
               "quickstart",
