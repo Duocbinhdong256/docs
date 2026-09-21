@@ -69,7 +69,13 @@
         ]
       },
       {
-        "tab": "Cố vấn chuyên môn"
+        "tab": "Cố vấn chuyên môn",
+        "groups": [
+          {
+            "group": "Untitled Group",
+            "pages": []
+          }
+        ]
       }
     ],
     "global": {
