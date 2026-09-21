@@ -9,14 +9,32 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
+          "icon": "book-open-cover"
+        },
+        {
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        }
+      ]
+    },
+    "groups": [
       {
-        "tab": "Cẩm nang sức khỏe",
-        "groups": [
+        "group": "Cẩm nang sức khỏe",
+        "pages": [
           {
             "group": "General",
             "pages": [
-              "index",
               "quickstart",
               "development"
             ]
@@ -48,9 +66,9 @@
         ]
       },
       {
-        "tab": "Gian hàng",
+        "group": "Gian hàng",
         "icon": "shopping-cart",
-        "groups": [
+        "pages": [
           {
             "group": "API documentation",
             "pages": [
@@ -69,36 +87,10 @@
         ]
       },
       {
-        "tab": "Cố vấn chuyên môn",
-        "groups": [
-          {
-            "group": "Untitled Group",
-            "pages": [
-              "untitled-page"
-            ]
-          }
-        ]
+        "group": "Untitled Group",
+        "pages": []
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
